@@ -1,1 +1,5 @@
 Probando gitHub
+git init
+git status
+git commit -m comentario que se quiera guardar
+git push
