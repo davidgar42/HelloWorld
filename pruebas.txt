@@ -3,4 +3,10 @@ git init
 git status
 git add Archivos a añadir
 git commit -m "comentario que se quiera guardar"
-git push
+git remote add origin https://github.com/davidgar42/HelloWorld.git
+git push -u origin main
+
+
+gitkraken
+probando gitkraken
+git add --all
