@@ -1,5 +1,6 @@
 Probando gitHub
 git init
 git status
-git commit -m comentario que se quiera guardar
+git add Archivos a añadir
+git commit -m "comentario que se quiera guardar"
 git push
